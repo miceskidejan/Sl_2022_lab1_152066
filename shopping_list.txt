@@ -3,3 +3,4 @@ voda x 3
 maslo x 3
 lekja x 4
 sol x 6
+sjaj x2
