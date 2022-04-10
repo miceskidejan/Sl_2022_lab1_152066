@@ -29,4 +29,44 @@
 
 12. git checkout master
 
-13.
+13. git add shopping list.txt
+	git commit -m "Change quantity of item #2"
+
+14.git pull
+
+15.git checkout branch2 
+
+16.git add shopping_list.txt
+   git commit -m "Modify item #4"
+
+18.git add shopping_list.txt
+   git commit -m "Modify item #4 and add item #6"
+
+20.checkout master
+   git merge branch1
+
+21.git merge branch2 tuka se pojavi konflikt
+
+
+commit ec60cdf1e8725604402e09ba81f239e29bac2973 (HEAD -> master)
+Merge: 7eb204e 41c1cb8
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sun Apr 10 21:54:27 2022 +0200
+
+    Merge branch 'branch1'
+
+commit 7eb204e3c9fe74cae192b0db98b1d32a2132bd1b (origin/master, origin/HEAD)
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sun Apr 10 21:49:27 2022 +0200
+
+    Update docs
+
+commit 4ebf57c9bceb8ffdad048d23c0483a4e131ad724
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+Date:   Sun Apr 10 21:48:37 2022 +0200
+
+    Change quantity of item #2
+
+commit 41c1cb8261c657f6508c75b08696409ac224c25b (branch1)
+Author: miceskidejan <dejan.miceski@students.finki.ukim.mk>
+:
