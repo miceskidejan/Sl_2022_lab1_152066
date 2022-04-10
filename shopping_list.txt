@@ -1,5 +1,5 @@
 leb x 1
-voda x 2
+voda x 3
 maslo x 3
 brasno x 4
-sol x 5
+sol x 6
